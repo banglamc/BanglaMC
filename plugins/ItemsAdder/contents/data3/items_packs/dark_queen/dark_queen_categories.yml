@@ -1,0 +1,22 @@
+info:
+  namespace: dark_queen
+categories:
+  dark_queen:
+    enabled: true
+    skip_if_already: false
+    icon: "dark_queen:dark_queen_sword"
+    name: Dark Queen Set
+    permission: ia.menu
+    items:
+      - "dark_queen:dark_queen_axe"
+      - "dark_queen:dark_queen_bow"
+      - "dark_queen:dark_queen_spear"
+      - "dark_queen:dark_queen_staff"
+      - "dark_queen:dark_queen_sword"
+
+
+      
+
+
+    
+

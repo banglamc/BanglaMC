@@ -1,1 +1,14 @@
-[{}]
+[
+  {
+    "uuid": "907142cd-3c29-3a4c-bfe3-5b65780c9ad9",
+    "name": "RabbanyOperator",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f5fe1397-4638-3a63-ae41-d2ede5b3022d",
+    "name": "SaikatOperator",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

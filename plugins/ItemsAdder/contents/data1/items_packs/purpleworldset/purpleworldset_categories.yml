@@ -1,0 +1,26 @@
+info:
+  namespace: purpleworldset
+categories:
+  purpleworldset:
+    enabled: true
+    skip_if_already: false
+    icon: "purpleworldset:purpleworld_sword"
+    name: Purple World Set
+    permission: ia.menu
+    items:
+      - "purpleworldset:purpleworld_axe"
+      - "purpleworldset:purpleworld_sword"
+      - "purpleworldset:purpleworld_hoe"
+      - "purpleworldset:purpleworld_battleaxe"
+      - "purpleworldset:purpleworld_pickaxe"
+      - "purpleworldset:purpleworld_shovel"
+      - "purpleworldset:purpleworld_dagger"
+      - "purpleworldset:purpleworld_bow"
+
+
+
+
+
+
+
+

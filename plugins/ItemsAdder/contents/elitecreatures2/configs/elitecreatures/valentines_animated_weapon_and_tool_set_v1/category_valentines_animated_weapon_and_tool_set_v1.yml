@@ -1,0 +1,31 @@
+info:
+  namespace: elitecreatures
+categories:
+  valentines_animated_weapon_and_tool_set_v1:
+    enabled: true
+    icon: "elitecreatures:valentines_animated_weapon_and_tool_set_v1_axe"
+    name: Valentines Animated Weapon & Tool Set
+    permission: "ia.menu.valentines_animated_weapon_and_tool_set_v1"
+    items:
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_axe"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_bow"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_chest"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_crossbow"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_grenade"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_hammer"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_helmet"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_hoe"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_key"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_pickaxe"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_quiver"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_rod"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_shield"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_shovel"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_spear"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_staff"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_sword"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_wing"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_helmet1"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_chestplate"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_leggings"
+      - "elitecreatures:valentines_animated_weapon_and_tool_set_v1_boots"

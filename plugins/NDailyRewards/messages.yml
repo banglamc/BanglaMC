@@ -1,0 +1,27 @@
+Prefix: '&6[&eNDailyRewards&6] &7'
+Commands:
+  Help:
+    Usage: '&cUsage: &e/ndailyrewards %command% %usage%'
+    Commands:
+    - '&8&m-----------&8&l[ &aNDailyRewards &8&l]&8&m-----------'
+    - ''
+    - '&2В» &a/ndailyrewards &7- Open GUI.'
+    - '&2В» &a/ndailyrewards help &7- Help page.'
+    - '&2В» &a/ndailyrewards reload &7- Reload the plugin.'
+    - '&2В» &a/ndailyrewards version &7- Sends current plugin version.'
+    - '&2В» &a/ndailyrewards backup &7- Saves your config and database.'
+    - ''
+    - '&8&m--------------------------------------'
+Command:
+  Reload:
+    Exec: '&aConfiguration reloaded!'
+Time:
+  Sec: sec.
+  Min: m.
+  Hour: h.
+  Day: d.
+Error:
+  NoPerm: '&cYou don''t have permissions to do that.'
+  Number: '&cInvalid number: &e%num%'
+  NoPlayer: '&cPlayer not found!'
+  Console: '&cThis command is only for players!'

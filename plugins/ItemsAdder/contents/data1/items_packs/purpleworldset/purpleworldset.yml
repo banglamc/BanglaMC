@@ -1,0 +1,61 @@
+info:
+  namespace: purpleworldset
+items:
+  purpleworld_axe:
+    display_name: Purple World Axe
+    permission: purpleworldset
+    resource:
+      material: DIAMOND_AXE
+      generate: false
+      model_path: purpleworldset/purpleworld_axe
+  purpleworld_sword:
+    display_name: Purple World Sword
+    permission: purpleworldset
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: purpleworldset/purpleworld_sword
+  purpleworld_hoe:
+    display_name: Purple World Hoe
+    permission: purpleworldset
+    resource:
+      material: DIAMOND_HOE
+      generate: false
+      model_path: purpleworldset/purpleworld_hoe
+  purpleworld_battleaxe:
+    display_name: Purple World Battle Axe
+    permission: purpleworldset
+    resource:
+      material: DIAMOND_AXE
+      generate: false
+      model_path: purpleworldset/purpleworld_battleaxe
+    behaviours:
+      hat: true
+  purpleworld_pickaxe:
+    display_name: Purple World Pickaxe
+    permission: purpleworldset
+    resource:
+      material: DIAMOND_PICKAXE
+      generate: false
+      model_path: purpleworldset/purpleworld_pickaxe
+  purpleworld_shovel:
+    display_name: Purple World Shovel
+    permission: purpleworldset
+    resource:
+      material: DIAMOND_SHOVEL
+      generate: false
+      model_path: purpleworldset/purpleworld_shovel
+  purpleworld_dagger:
+    display_name: Purple World Dagger
+    permission: purpleworldset
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: purpleworldset/purpleworld_dagger
+  purpleworld_bow:
+    display_name: Purple World Bow
+    permission: purpleworldset
+    resource:
+      material: BOW
+      generate: false
+      model_path: purpleworldset/purpleworld_bow

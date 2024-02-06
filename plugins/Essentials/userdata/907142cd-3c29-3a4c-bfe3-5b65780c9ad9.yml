@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1707209233496
+  login: 1707208798891
+money: '500'
+last-account-name: RabbanyOperator
+lastlocation:
+  world: d8a2cd3c-012b-4227-9b98-ad7ebfb3e008
+  world-name: world
+  x: 1.0
+  y: 14.0
+  z: -62.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: d8a2cd3c-012b-4227-9b98-ad7ebfb3e008
+  world-name: world
+  x: 0.7717804410553427
+  y: 21.0
+  z: -131.69999998807907
+  yaw: -154.49990844726562
+  pitch: 11.999951362609863

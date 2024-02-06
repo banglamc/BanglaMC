@@ -1,0 +1,38 @@
+info:
+  namespace: ruby_vol_1_pack
+items:
+  ruby_vol_1_axe:
+    display_name: Ruby Axe
+    permission: ruby
+    resource:
+      material: DIAMOND_AXE
+      generate: false
+      model_path: ruby_vol_1_pack/axe_ruby_vol_1
+  ruby_vol_1_bow:
+    display_name: Ruby Bow
+    permission: ruby
+    resource:
+      material: BOW
+      generate: false
+      model_path: ruby_vol_1_pack/bow_ruby_vol_1
+  ruby_vol_1_spear:
+    display_name: Ruby Spear
+    permission: ruby
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: ruby_vol_1_pack/spear_ruby_vol_1
+  ruby_vol_1_staff:
+    display_name: Ruby Staff
+    permission: ruby
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: ruby_vol_1_pack/staff_ruby_vol_1
+  ruby_vol_1_sword:
+    display_name: Ruby Sword
+    permission: ruby
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: ruby_vol_1_pack/sword_ruby_vol_1

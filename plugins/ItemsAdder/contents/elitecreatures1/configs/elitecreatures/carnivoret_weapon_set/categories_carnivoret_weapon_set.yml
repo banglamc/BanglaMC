@@ -1,0 +1,28 @@
+info:
+  namespace: elitecreatures
+categories:
+  carnivoret_weapon_set:
+    enabled: true
+    icon: "elitecreatures:carnivoret_weapon_set_axe"
+    name: "Carnivoret Weapon Set"
+    permission: "ia.menu.carnivoret_weapon_set"
+    items:
+      - "elitecreatures:carnivoret_weapon_set_axe"
+      - "elitecreatures:carnivoret_weapon_set_bow"
+      - "elitecreatures:carnivoret_weapon_set_chest"
+      - "elitecreatures:carnivoret_weapon_set_fishing_rod"
+      - "elitecreatures:carnivoret_weapon_set_hammer"
+      - "elitecreatures:carnivoret_weapon_set_hat"
+      - "elitecreatures:carnivoret_weapon_set_hoe"
+      - "elitecreatures:carnivoret_weapon_set_key"
+      - "elitecreatures:carnivoret_weapon_set_pickaxe"
+      - "elitecreatures:carnivoret_weapon_set_scythe"
+      - "elitecreatures:carnivoret_weapon_set_shield"
+      - "elitecreatures:carnivoret_weapon_set_shovel"
+      - "elitecreatures:carnivoret_weapon_set_spear"
+      - "elitecreatures:carnivoret_weapon_set_staff"
+      - "elitecreatures:carnivoret_weapon_set_sword"
+      - "elitecreatures:carnivoret_weapon_set_wing"
+      - "elitecreatures:carnivoret_weapon_set_chestplate"
+      - "elitecreatures:carnivoret_weapon_set_leggings"
+      - "elitecreatures:carnivoret_weapon_set_boots"
