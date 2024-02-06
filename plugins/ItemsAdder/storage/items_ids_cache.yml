@@ -1,0 +1,87 @@
+PLAYER_HEAD:
+  __manually_handled:_iainternal__player_phead_0: 10000
+  __manually_handled:_iainternal__player_parm_left_3: 10001
+  __manually_handled:_iainternal__player_pbody_2: 10002
+  __manually_handled:_iainternal__player_pleg_left_1: 10003
+  __manually_handled:_iainternal__player_pleg_right_5: 10004
+  __manually_handled:_iainternal__player_parm_right_4: 10005
+DIAMOND_AXE:
+  purpleworldset:purpleworld_axe: 10000
+  purpleworldset:purpleworld_battleaxe: 10001
+  ruby_vol_1_pack:ruby_vol_1_axe: 10002
+  dark_queen:dark_queen_axe: 10003
+DIAMOND_SWORD:
+  purpleworldset:purpleworld_sword: 10000
+  purpleworldset:purpleworld_dagger: 10001
+  ruby_vol_1_pack:ruby_vol_1_spear: 10002
+  ruby_vol_1_pack:ruby_vol_1_staff: 10003
+  ruby_vol_1_pack:ruby_vol_1_sword: 10004
+  dark_queen:dark_queen_spear: 10005
+  dark_queen:dark_queen_staff: 10006
+  dark_queen:dark_queen_sword: 10007
+DIAMOND_HOE:
+  purpleworldset:purpleworld_hoe: 10000
+DIAMOND_PICKAXE:
+  purpleworldset:purpleworld_pickaxe: 10000
+DIAMOND_SHOVEL:
+  purpleworldset:purpleworld_shovel: 10000
+BOW:
+  purpleworldset:purpleworld_bow: 10000
+  elitecreatures:carnivoret_weapon_set_bow: 10001
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_bow: 10002
+  ruby_vol_1_pack:ruby_vol_1_bow: 10003
+  dark_queen:dark_queen_bow: 10004
+LEATHER_CHESTPLATE:
+  elitecreatures:carnivoret_weapon_set_chestplate: 10000
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_chestplate: 10001
+LEATHER_LEGGINGS:
+  elitecreatures:carnivoret_weapon_set_leggings: 10000
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_leggings: 10001
+LEATHER_BOOTS:
+  elitecreatures:carnivoret_weapon_set_boots: 10000
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_boots: 10001
+IRON_AXE:
+  elitecreatures:carnivoret_weapon_set_axe: 10000
+  elitecreatures:carnivoret_weapon_set_hammer: 10001
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_axe: 10002
+PAPER:
+  elitecreatures:carnivoret_weapon_set_chest: 10000
+  elitecreatures:carnivoret_weapon_set_hat: 10001
+  elitecreatures:carnivoret_weapon_set_key: 10002
+  elitecreatures:carnivoret_weapon_set_wing: 10003
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_chest: 10004
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_grenade: 10005
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_helmet: 10006
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_key: 10007
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_quiver: 10008
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_quiver_self: 10009
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_wing: 10010
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_wing_self: 10011
+FISHING_ROD:
+  elitecreatures:carnivoret_weapon_set_fishing_rod: 10000
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_rod: 10001
+IRON_HOE:
+  elitecreatures:carnivoret_weapon_set_hoe: 10000
+  elitecreatures:carnivoret_weapon_set_scythe: 10001
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_hoe: 10002
+IRON_PICKAXE:
+  elitecreatures:carnivoret_weapon_set_pickaxe: 10000
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_pickaxe: 10001
+SHIELD:
+  elitecreatures:carnivoret_weapon_set_shield: 10000
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_shield: 10001
+IRON_SHOVEL:
+  elitecreatures:carnivoret_weapon_set_shovel: 10000
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_shovel: 10001
+IRON_SWORD:
+  elitecreatures:carnivoret_weapon_set_spear: 10000
+  elitecreatures:carnivoret_weapon_set_staff: 10001
+  elitecreatures:carnivoret_weapon_set_sword: 10002
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_hammer: 10003
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_spear: 10004
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_staff: 10005
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_sword: 10006
+CROSSBOW:
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_crossbow: 10000
+LEATHER_HELMET:
+  elitecreatures:valentines_animated_weapon_and_tool_set_v1_helmet1: 10000

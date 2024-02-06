@@ -1,0 +1,38 @@
+info:
+  namespace: dark_queen
+items:
+  dark_queen_axe:
+    display_name: Dark Queen Axe
+    permission: dark
+    resource:
+      material: DIAMOND_AXE
+      generate: false
+      model_path: dark_queen/axe_dark_queen
+  dark_queen_bow:
+    display_name: Dark Queen Bow
+    permission: dark
+    resource:
+      material: BOW
+      generate: false
+      model_path: dark_queen/bow_dark_queen
+  dark_queen_spear:
+    display_name: Dark Queen Spear
+    permission: dark
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: dark_queen/spear_dark_queen
+  dark_queen_staff:
+    display_name: Dark Queen Staff
+    permission: dark
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: dark_queen/staff_dark_queen
+  dark_queen_sword:
+    display_name: Dark Queen Sword
+    permission: dark
+    resource:
+      material: DIAMOND_SWORD
+      generate: false
+      model_path: dark_queen/sword_dark_queen

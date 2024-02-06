@@ -1,0 +1,23 @@
+2024-02-06 07:45:33 [INFO]: [BetterRTP] Cooldown = 600
+2024-02-06 07:45:33 [INFO]: [BetterRTP] Loading Overrides...
+2024-02-06 07:45:33 [INFO]: [BetterRTP] Loading World Types...
+2024-02-06 07:45:33 [INFO]: [BetterRTP] - World Type for 'world' set to 'NORMAL'
+2024-02-06 07:45:33 [INFO]: [BetterRTP] - World Type for 'world_nether' set to 'NETHER'
+2024-02-06 07:45:33 [INFO]: [BetterRTP] - World Type for 'world_the_end' set to 'NORMAL'
+2024-02-06 07:45:33 [INFO]: [BetterRTP] Loading Defaults...
+2024-02-06 07:45:33 [INFO]: [BetterRTP] Loading Custom Worlds...
+2024-02-06 07:45:33 [INFO]: [BetterRTP] [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2024-02-06 07:45:33 [INFO]: [BetterRTP] [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2024-02-06 07:45:33 [INFO]: [BetterRTP] Database CHUNK_DATA:ChunkData configured and loaded!
+2024-02-06 07:45:33 [INFO]: [BetterRTP] Database COOLDOWN:world configured and loaded!
+2024-02-06 07:45:33 [INFO]: [BetterRTP] Database COOLDOWN:survival configured and loaded!
+2024-02-06 07:45:33 [INFO]: [BetterRTP] Database QUEUE:Queue configured and loaded!
+2024-02-06 07:45:33 [INFO]: [BetterRTP] Database PLAYERS:Players configured and loaded!
+2024-02-06 07:45:33 [INFO]: [BetterRTP] Attempting to queue up some more safe locations...
+2024-02-06 07:45:34 [INFO]: [BetterRTP] Queueing paused, max queue limit reached!
+2024-02-06 07:53:02 [INFO]: [BetterRTP] CONSOLE executed: /betterrtp player SaikatOperator survival
+2024-02-06 07:53:02 [WARNING]: [BetterRTP] Seems like the world `survival` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- survival: NETHER`
+2024-02-06 07:53:02 [INFO]: [BetterRTP] -Removed a queue Location{world=CraftWorld{name=survival},x=176.5,y=71.0,z=34.5,pitch=-89.85,yaw=-172.94849}
+2024-02-06 07:54:57 [INFO]: [BetterRTP] CONSOLE executed: /betterrtp player SaikatOperator survival
+2024-02-06 07:54:57 [INFO]: [BetterRTP] -Removed a queue Location{world=CraftWorld{name=survival},x=-943.5,y=68.0,z=22.5,pitch=-6.7500753,yaw=44.40022}
+2024-02-06 09:20:39 [INFO]: [BetterRTP] Disabling BetterRTP v3.6.10

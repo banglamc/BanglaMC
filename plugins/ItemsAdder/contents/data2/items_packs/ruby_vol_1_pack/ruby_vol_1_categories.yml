@@ -1,0 +1,22 @@
+info:
+  namespace: ruby_vol_1_pack
+categories:
+  ruby_vol_1_pack:
+    enabled: true
+    skip_if_already: false
+    icon: "ruby_vol_1_pack:ruby_vol_1_sword"
+    name: Ruby Set
+    permission: ia.menu
+    items:
+      - "ruby_vol_1_pack:ruby_vol_1_axe"
+      - "ruby_vol_1_pack:ruby_vol_1_bow"
+      - "ruby_vol_1_pack:ruby_vol_1_spear"
+      - "ruby_vol_1_pack:ruby_vol_1_staff"
+      - "ruby_vol_1_pack:ruby_vol_1_sword"
+
+
+      
+
+
+    
+

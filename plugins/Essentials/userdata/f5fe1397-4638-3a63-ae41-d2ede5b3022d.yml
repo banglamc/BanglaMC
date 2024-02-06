@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1707192276201
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1707211233243
+  login: 1707207696499
+money: '0'
+last-account-name: SaikatOperator
+lastlocation:
+  world: d8a2cd3c-012b-4227-9b98-ad7ebfb3e008
+  world-name: world
+  x: -1.539251115508637
+  y: 24.401103832142258
+  z: -139.48272920630515
+  yaw: 97.337158203125
+  pitch: -2.9997079372406006
+logoutlocation:
+  world: d8a2cd3c-012b-4227-9b98-ad7ebfb3e008
+  world-name: world
+  x: 5.723520497536345
+  y: 15.5
+  z: -67.00835797740991
+  yaw: 178.349609375
+  pitch: 1.199884295463562

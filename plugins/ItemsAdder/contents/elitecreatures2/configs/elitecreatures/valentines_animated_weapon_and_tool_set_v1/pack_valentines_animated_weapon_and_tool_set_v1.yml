@@ -1,0 +1,197 @@
+info:
+  namespace: elitecreatures
+armors_rendering:
+  valentines_animated_weapon_and_tool_set_v1:
+    color: '#8c1950'
+    layer_1: valentines_animated_weapon_and_tool_set_v1/armor_layer_1
+    layer_2: valentines_animated_weapon_and_tool_set_v1/armor_layer_2
+    use_color: false
+items:
+  valentines_animated_weapon_and_tool_set_v1_axe:
+    display_name: Axe
+    resource:
+      material: iron_axe
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/axe
+  valentines_animated_weapon_and_tool_set_v1_bow:
+    display_name: Bow
+    resource:
+      material: Bow
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/bow
+  valentines_animated_weapon_and_tool_set_v1_chest:
+    display_name: Chest
+    resource:
+      material: paper
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/chest
+    behaviours:
+      furniture:
+        solid: true
+        fixed_rotation: true
+        entity: armor_stand
+        hitbox:
+          length: 1
+          width: 1
+          height: 1
+          length_offset: 0
+          width_offset: 0
+          height_offset: 0
+        placeable_on:
+          walls: false
+          ceiling: false
+          floor: true
+  valentines_animated_weapon_and_tool_set_v1_crossbow:
+    display_name: Crossbow
+    resource:
+      material: Crossbow
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/crossbow
+  valentines_animated_weapon_and_tool_set_v1_grenade:
+    display_name: Grenade
+    resource:
+      material: paper
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/grenade
+  valentines_animated_weapon_and_tool_set_v1_key:
+    display_name: Key
+    resource:
+      material: paper
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/key
+  valentines_animated_weapon_and_tool_set_v1_hammer:
+    display_name: Hammer
+    resource:
+      material: iron_sword
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/hammer
+  valentines_animated_weapon_and_tool_set_v1_helmet:
+    display_name: Helmets
+    resource:
+      material: paper
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/helmet
+    behaviours:
+      hat: true
+  valentines_animated_weapon_and_tool_set_v1_hoe:
+    display_name: Hoe
+    resource:
+      material: iron_hoe
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/hoe
+  valentines_animated_weapon_and_tool_set_v1_key:
+    display_name: Key
+    resource:
+      material: paper
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/key
+  valentines_animated_weapon_and_tool_set_v1_pickaxe:
+    display_name: Pickaxe
+    resource:
+      material: iron_pickaxe
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/pickaxe
+  valentines_animated_weapon_and_tool_set_v1_quiver:
+    display_name: Quiver
+    resource:
+      material: paper
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/quiver
+  valentines_animated_weapon_and_tool_set_v1_quiver_self:
+    display_name: Quiver Self
+    resource:
+      material: paper
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/quiver_self
+  valentines_animated_weapon_and_tool_set_v1_rod:
+    display_name: Rod
+    resource:
+      material: fishing_rod
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/rod
+  valentines_animated_weapon_and_tool_set_v1_shield:
+    display_name: Shield
+    resource:
+      material: shield
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/shield
+  valentines_animated_weapon_and_tool_set_v1_shovel:
+    display_name: Shovel
+    resource:
+      material: iron_shovel
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/shovel
+  valentines_animated_weapon_and_tool_set_v1_spear:
+    display_name: Spear
+    resource:
+      material: iron_sword
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/spear
+  valentines_animated_weapon_and_tool_set_v1_staff:
+    display_name: Staff
+    resource:
+      material: iron_sword
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/staff
+  valentines_animated_weapon_and_tool_set_v1_sword:
+    display_name: Sword
+    resource:
+      material: iron_sword
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/sword
+  valentines_animated_weapon_and_tool_set_v1_wing:
+    display_name: Wing
+    resource:
+      material: paper
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/wing
+  valentines_animated_weapon_and_tool_set_v1_wing_self:
+    display_name: Wing Self
+    resource:
+      material: paper
+      generate: false
+      model_path: valentines_animated_weapon_and_tool_set_v1/wing_self
+  valentines_animated_weapon_and_tool_set_v1_helmet1:
+    display_name: Valentine Helmet
+    resource:
+      material: helmet
+      generate: true
+      textures:
+      - valentines_animated_weapon_and_tool_set_v1/helmet_icon.png
+    specific_properties:
+      armor:
+        slot: head
+        custom_armor: valentines_animated_weapon_and_tool_set_v1
+  valentines_animated_weapon_and_tool_set_v1_chestplate:
+    display_name: Valentine Chestplate
+    resource:
+      material: Chestplate
+      generate: true
+      textures:
+      - valentines_animated_weapon_and_tool_set_v1/chestplate_icon.png
+    specific_properties:
+      armor:
+        slot: chest
+        custom_armor: valentines_animated_weapon_and_tool_set_v1
+  valentines_animated_weapon_and_tool_set_v1_leggings:
+    display_name: Valentine Leggings
+    resource:
+      material: Leggings
+      generate: true
+      textures:
+      - valentines_animated_weapon_and_tool_set_v1/leggings_icon.png
+    specific_properties:
+      armor:
+        slot: legs
+        custom_armor: valentines_animated_weapon_and_tool_set_v1
+  valentines_animated_weapon_and_tool_set_v1_boots:
+    display_name: Valentine Boots
+    resource:
+      material: Boots
+      generate: true
+      textures:
+      - valentines_animated_weapon_and_tool_set_v1/boots_icon.png
+    specific_properties:
+      armor:
+        slot: feet
+        custom_armor: valentines_animated_weapon_and_tool_set_v1
